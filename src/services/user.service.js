@@ -1,15 +1,30 @@
 import User from '../models/user.model';
+import bcrypt from "bcrypt";
+
 
 //get all users
 export const getAllUsers = async () => {
   const data = await User.find();
   return data;
 };
-
+// user login
+export const userLogIn = async (body) => {
+  const data = await User.find(body);
+  return data;
+};
 //create new user
 export const newUser = async (body) => {
-  const data = await User.create(body);
-  return data;
+  console.log("service", body)
+  const saltRounds = 10;
+  
+  const salt =  await bcrypt.genSalt(saltRounds)
+  const hash = await bcrypt.hash(body.password, salt)
+  body.password = hash;
+     const data = await User.create(body);
+       return data;
+
+
+
 };
 
 //update single user
