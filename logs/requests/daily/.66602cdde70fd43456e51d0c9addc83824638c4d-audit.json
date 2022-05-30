@@ -14,6 +14,21 @@
             "date": 1653011342180,
             "name": "logs\\requests\\daily\\2022-05-20.log",
             "hash": "86d2ab1fd2da4069132e1c0bcc5a6202"
+        },
+        {
+            "date": 1653620367833,
+            "name": "logs\\requests\\daily\\2022-05-27.log",
+            "hash": "67aa4d7c1c82924ab72f82bcb45baa3d"
+        },
+        {
+            "date": 1653699179911,
+            "name": "logs\\requests\\daily\\2022-05-28.log",
+            "hash": "706c5d4e81f7a0ab22fc8453502eba74"
+        },
+        {
+            "date": 1653906204081,
+            "name": "logs\\requests\\daily\\2022-05-30.log",
+            "hash": "eb779646f4d7007792634ac656122015"
         }
     ],
     "hashType": "md5"

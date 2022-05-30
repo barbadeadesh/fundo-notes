@@ -235,3 +235,279 @@ info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T0
 info: Connected to the database. {"timestamp":"2022-05-20T04:34:55.017Z"}
 info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T04:36:00.179Z"}
 info: Connected to the database. {"timestamp":"2022-05-20T04:36:00.208Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T08:13:40.420Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T08:13:40.447Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T08:13:46.368Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T08:13:46.394Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T08:13:49.172Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T08:13:49.202Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T08:13:56.982Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T08:13:57.009Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T08:39:36.262Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T08:39:36.287Z"}
+error: 
+    status - 500 
+    message - ValidationError: "password" is required 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-20T08:40:54.499Z"}
+error: 
+    status - 500 
+    message - ValidationError: "email" is required 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-20T08:41:09.883Z"}
+error: 
+    status - 500 
+    message - ReferenceError: userBody is not defined
+    at _callee2$ (D:\projectt\fundo-notes\src\services\/user.service.js:12:43)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.userLogIn (D:\projectt\fundo-notes\src\services\/user.service.js:11:23)
+    at _callee3$ (D:\projectt\fundo-notes\src\controllers\/user.controller.js:49:36)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-20T08:41:22.501Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T08:42:14.882Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T08:42:14.907Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T08:42:17.241Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T08:42:17.262Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T08:42:58.985Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T08:42:59.007Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T08:43:31.494Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T08:43:31.521Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T08:43:35.898Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T08:43:35.923Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T08:43:52.658Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T08:43:52.681Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T08:44:12.824Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T08:44:12.854Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T08:44:24.350Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T08:44:24.374Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T08:44:29.365Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T08:44:29.386Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T08:45:28.942Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T08:45:28.977Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T08:45:35.364Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T08:45:35.402Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T08:45:38.002Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T08:45:38.029Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T08:45:44.369Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T08:45:44.389Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T08:45:54.844Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T08:45:54.869Z"}
+error: 
+    status - 500 
+    message - ValidationError: "password" is required 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-20T08:46:05.229Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T08:47:23.353Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T08:47:23.380Z"}
+error: 
+    status - 500 
+    message - ValidationError: "password" is required 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-20T08:47:27.388Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T08:47:56.444Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T08:47:56.475Z"}
+error: 
+    status - 500 
+    message - ValidationError: "password" is required 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-20T08:48:00.524Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T08:48:49.800Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T08:48:49.824Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T08:48:53.533Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T08:48:53.564Z"}
+error: 
+    status - 500 
+    message - ValidationError: "password" is required 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-20T08:48:57.191Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T08:50:45.121Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T08:50:45.153Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T08:51:12.430Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T08:51:12.461Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T08:51:26.502Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T08:51:26.527Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T08:51:34.065Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T08:51:34.091Z"}
+error: 
+    status - 500 
+    message - ValidationError: "password" is required 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-20T08:51:51.780Z"}
+error: 
+    status - 500 
+    message - ValidationError: "password" is required 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-20T08:51:53.304Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T08:52:45.822Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T08:52:45.845Z"}
+error: 
+    status - 500 
+    message - ValidationError: "password" is required 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-20T08:53:40.038Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T08:54:11.769Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T08:54:11.793Z"}
+error: 
+    status - 500 
+    message - ValidationError: "password" is required 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-20T08:54:18.852Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T08:54:27.378Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T08:54:27.405Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T08:54:40.249Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T08:54:40.274Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T08:54:48.783Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T08:54:48.814Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T08:54:58.469Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T08:54:58.504Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-20T08:58:09.509Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T09:07:33.711Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T09:07:33.748Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T09:07:39.048Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T09:07:39.076Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T09:09:04.752Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T09:09:04.776Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T09:09:23.289Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T09:09:23.318Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T09:09:34.105Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T09:09:34.137Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T09:09:40.207Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T09:09:40.233Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T09:11:05.404Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T09:11:05.429Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T12:03:35.719Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T12:03:35.751Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T12:03:46.917Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T12:03:46.948Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T12:09:41.540Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T12:09:41.565Z"}
+error: 
+    status - 500 
+    message - ReferenceError: userBody is not defined
+    at _callee2$ (D:\projectt\fundo-notes\src\services\/user.service.js:12:43)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.userLogIn (D:\projectt\fundo-notes\src\services\/user.service.js:11:23)
+    at _callee3$ (D:\projectt\fundo-notes\src\controllers\/user.controller.js:49:36)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-20T12:09:58.724Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T12:10:15.758Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T12:10:15.789Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T12:10:20.974Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T12:10:21.005Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T12:10:27.492Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T12:10:27.521Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T12:10:34.207Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T12:10:34.232Z"}
+error: 
+    status - 500 
+    message - ReferenceError: jwt is not defined
+    at _callee2$ (D:\projectt\fundo-notes\src\services\/user.service.js:21:9)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-20T12:10:51.579Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T12:16:25.691Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T12:16:25.722Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T12:16:48.979Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T12:16:49.012Z"}
+error: 
+    status - 500 
+    message - ObjectParameterError: Parameter "filter" to findOne() must be an object, got barbade123@gmail.com
+    at model.Query.Query.findOne (D:\projectt\fundo-notes\node_modules\mongoose\lib\query.js:2321:16)
+    at Function.findOne (D:\projectt\fundo-notes\node_modules\mongoose\lib\model.js:2267:13)
+    at _callee2$ (D:\projectt\fundo-notes\src\services\/user.service.js:12:27)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.userLogIn (D:\projectt\fundo-notes\src\services\/user.service.js:11:23)
+    at _callee3$ (D:\projectt\fundo-notes\src\controllers\/user.controller.js:49:36)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-20T12:18:50.692Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T12:19:17.099Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T12:19:17.132Z"}
+error: 
+    status - 500 
+    message - ReferenceError: jwt is not defined
+    at _callee2$ (D:\projectt\fundo-notes\src\services\/user.service.js:21:9)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-20T12:19:23.838Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-20T12:28:26.631Z"}
+info: Connected to the database. {"timestamp":"2022-05-20T12:28:26.664Z"}

@@ -10,7 +10,7 @@ import * as UserService from '../services/user.service';
 export const getAllUsers = async (req, res, next) => {
   try {
     const data = await UserService.getAllUsers();
-    res.status(HttpStatus.OK).json({ 
+    res.status(HttpStatus.OK).json({
       code: HttpStatus.OK,
       data: data,
       message: 'All users fetched successfully'
@@ -25,7 +25,7 @@ export const getAllUsers = async (req, res, next) => {
  * @param {object} res - response object
  * @param {Function} next
  */
- export const userRegistration = async (req, res, next) => {
+export const userRegistration = async (req, res, next) => {
   try {
     const data = await UserService.newUser(req.body);
     res.status(HttpStatus.CREATED).json({
@@ -44,9 +44,9 @@ export const getAllUsers = async (req, res, next) => {
  * @param {object} res - response object
  * @param {Function} next
  */
- export const userLogIn = async (req, res, next) => {
+export const userLogIn = async (req, res, next) => {
   try {
-    const data = await UserService.userLogIn(req.body);
+    const data = await UserService.userLogin(req.body);
     res.status(HttpStatus.OK).json({
       code: HttpStatus.OK,
       token: data,

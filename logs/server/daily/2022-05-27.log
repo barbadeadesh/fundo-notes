@@ -1,0 +1,325 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T02:59:27.882Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T02:59:27.909Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-27T03:00:59.807Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: SampleDB_Adesh.users index: email_1 dup key: { email: "barbade@gamil.com" } 
+      url - /api/v1/users 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-05-27T03:10:13.923Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 11000
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (D:\projectt\fundo-notes\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (D:\projectt\fundo-notes\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (D:\projectt\fundo-notes\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (D:\projectt\fundo-notes\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (D:\projectt\fundo-notes\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:326:13)
+    at D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-27T03:10:13.937Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T03:11:55.297Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T03:11:55.317Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: SampleDB_Adesh.users index: email_1 dup key: { email: "barbade@gamil.com" } 
+      url - /api/v1/users 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-05-27T03:12:03.492Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 11000
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (D:\projectt\fundo-notes\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (D:\projectt\fundo-notes\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (D:\projectt\fundo-notes\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (D:\projectt\fundo-notes\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (D:\projectt\fundo-notes\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:326:13)
+    at D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-27T03:12:03.503Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: SampleDB_Adesh.users index: email_1 dup key: { email: "barbade@gamil.com" } 
+      url - /api/v1/users 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-05-27T03:12:59.060Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 11000
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (D:\projectt\fundo-notes\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (D:\projectt\fundo-notes\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (D:\projectt\fundo-notes\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (D:\projectt\fundo-notes\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (D:\projectt\fundo-notes\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:326:13)
+    at D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-27T03:12:59.067Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: SampleDB_Adesh.users index: email_1 dup key: { email: "barbade@gamil.com" } 
+      url - /api/v1/users 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-05-27T03:13:30.908Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 11000
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (D:\projectt\fundo-notes\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (D:\projectt\fundo-notes\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (D:\projectt\fundo-notes\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (D:\projectt\fundo-notes\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (D:\projectt\fundo-notes\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:326:13)
+    at D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-27T03:13:30.914Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T03:19:21.825Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T03:19:21.850Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T03:26:01.592Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T03:26:01.620Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T03:26:52.235Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T03:26:52.259Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T03:27:05.994Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T03:27:06.031Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T03:27:15.527Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T03:27:15.565Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T03:29:13.844Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T03:29:13.872Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T03:29:59.789Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T03:29:59.823Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T03:30:16.158Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T03:30:16.194Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T03:30:20.509Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T03:30:20.540Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T03:30:25.935Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T03:30:25.962Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T03:33:35.182Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T03:33:35.214Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T03:34:02.543Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T03:34:02.570Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T03:34:19.461Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T03:34:19.502Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T03:34:31.085Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T03:34:31.119Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T03:34:35.379Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T03:34:35.410Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T03:44:43.554Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T03:44:43.588Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T03:45:18.359Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T03:45:18.396Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:19:08.302Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:19:08.326Z"}
+error: 
+    status - 500 
+    message - ValidationError: "password" is required 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-27T07:19:48.222Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:21:12.661Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:21:12.693Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:21:18.550Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:21:18.575Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:22:00.877Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:22:00.910Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:34:05.404Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:34:05.433Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:34:33.442Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:34:33.470Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:36:19.826Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:36:19.852Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:37:18.649Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:37:18.672Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:37:40.526Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:37:40.558Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:37:49.828Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:37:49.856Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:44:16.838Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:44:16.860Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:44:31.075Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:44:31.104Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:45:00.098Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:45:00.127Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:45:08.977Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:45:09.018Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:45:12.398Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:45:12.433Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:45:17.828Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:45:17.858Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:45:30.322Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:45:30.346Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:45:33.949Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:45:33.985Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:46:10.965Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:46:10.993Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:46:21.682Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:46:21.713Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:47:32.558Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:47:32.587Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:47:43.195Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:47:43.223Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:47:53.457Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:47:53.486Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:47:58.321Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:47:58.350Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:48:01.755Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:48:01.782Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:48:12.488Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:48:12.526Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:48:15.253Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:48:15.283Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:48:41.539Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:48:41.566Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:48:52.992Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:48:53.018Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:49:06.057Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:49:06.080Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:49:15.674Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:49:15.701Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:49:21.969Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:49:21.994Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:49:25.988Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:49:26.023Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:49:46.472Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:49:46.506Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:49:52.959Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:49:52.990Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:50:02.012Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:50:02.037Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:50:07.066Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:50:07.100Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:50:13.115Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:50:13.145Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:50:46.370Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:50:46.390Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:52:09.618Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:52:09.639Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at parse (D:\projectt\fundo-notes\node_modules\body-parser\lib\types\json.js:89:19)
+    at D:\projectt\fundo-notes\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:201:9)
+    at invokeCallback (D:\projectt\fundo-notes\node_modules\raw-body\index.js:231:16)
+    at done (D:\projectt\fundo-notes\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (D:\projectt\fundo-notes\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:538:35)
+    at IncomingMessage.emit (node:domain:475:12)
+    at endReadableNT (node:internal/streams/readable:1345:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/users 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-27T07:53:07.022Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at parse (D:\projectt\fundo-notes\node_modules\body-parser\lib\types\json.js:89:19)
+    at D:\projectt\fundo-notes\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:201:9)
+    at invokeCallback (D:\projectt\fundo-notes\node_modules\raw-body\index.js:231:16)
+    at done (D:\projectt\fundo-notes\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (D:\projectt\fundo-notes\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:538:35)
+    at IncomingMessage.emit (node:domain:475:12)
+    at endReadableNT (node:internal/streams/readable:1345:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-27T07:53:17.652Z"}
+error: 
+    status - 500 
+    message - ValidationError: "password" is required 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-27T07:53:33.604Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:56:30.244Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:56:30.273Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:56:41.570Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:56:41.605Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:56:45.019Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:56:45.049Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:56:48.877Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:56:48.953Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:56:52.341Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:56:52.371Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:57:07.319Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:57:07.346Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:57:11.971Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:57:12.000Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:57:17.664Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:57:17.693Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:57:54.063Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:57:54.096Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:58:18.191Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:58:18.216Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:58:25.204Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:58:25.235Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:58:32.376Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:58:32.411Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:58:37.566Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:58:37.597Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T07:58:45.072Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T07:58:45.093Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-27T11:32:40.048Z"}
+info: Connected to the database. {"timestamp":"2022-05-27T11:32:40.070Z"}

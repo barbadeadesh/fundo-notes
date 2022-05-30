@@ -649,3 +649,632 @@ error:
     method - POST 
     IP - ::1
    {"timestamp":"2022-05-20T04:33:58.944Z"}
+error: 
+    status - 500 
+    message - ValidationError: "password" is required 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-20T08:40:54.499Z"}
+error: 
+    status - 500 
+    message - ValidationError: "email" is required 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-20T08:41:09.883Z"}
+error: 
+    status - 500 
+    message - ReferenceError: userBody is not defined
+    at _callee2$ (D:\projectt\fundo-notes\src\services\/user.service.js:12:43)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.userLogIn (D:\projectt\fundo-notes\src\services\/user.service.js:11:23)
+    at _callee3$ (D:\projectt\fundo-notes\src\controllers\/user.controller.js:49:36)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-20T08:41:22.501Z"}
+error: 
+    status - 500 
+    message - ValidationError: "password" is required 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-20T08:46:05.229Z"}
+error: 
+    status - 500 
+    message - ValidationError: "password" is required 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-20T08:47:27.388Z"}
+error: 
+    status - 500 
+    message - ValidationError: "password" is required 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-20T08:48:00.524Z"}
+error: 
+    status - 500 
+    message - ValidationError: "password" is required 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-20T08:48:57.191Z"}
+error: 
+    status - 500 
+    message - ValidationError: "password" is required 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-20T08:51:51.780Z"}
+error: 
+    status - 500 
+    message - ValidationError: "password" is required 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-20T08:51:53.304Z"}
+error: 
+    status - 500 
+    message - ValidationError: "password" is required 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-20T08:53:40.038Z"}
+error: 
+    status - 500 
+    message - ValidationError: "password" is required 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-20T08:54:18.852Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-20T08:58:09.509Z"}
+error: 
+    status - 500 
+    message - ReferenceError: userBody is not defined
+    at _callee2$ (D:\projectt\fundo-notes\src\services\/user.service.js:12:43)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.userLogIn (D:\projectt\fundo-notes\src\services\/user.service.js:11:23)
+    at _callee3$ (D:\projectt\fundo-notes\src\controllers\/user.controller.js:49:36)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-20T12:09:58.724Z"}
+error: 
+    status - 500 
+    message - ReferenceError: jwt is not defined
+    at _callee2$ (D:\projectt\fundo-notes\src\services\/user.service.js:21:9)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-20T12:10:51.579Z"}
+error: 
+    status - 500 
+    message - ObjectParameterError: Parameter "filter" to findOne() must be an object, got barbade123@gmail.com
+    at model.Query.Query.findOne (D:\projectt\fundo-notes\node_modules\mongoose\lib\query.js:2321:16)
+    at Function.findOne (D:\projectt\fundo-notes\node_modules\mongoose\lib\model.js:2267:13)
+    at _callee2$ (D:\projectt\fundo-notes\src\services\/user.service.js:12:27)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.userLogIn (D:\projectt\fundo-notes\src\services\/user.service.js:11:23)
+    at _callee3$ (D:\projectt\fundo-notes\src\controllers\/user.controller.js:49:36)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-20T12:18:50.692Z"}
+error: 
+    status - 500 
+    message - ReferenceError: jwt is not defined
+    at _callee2$ (D:\projectt\fundo-notes\src\services\/user.service.js:21:9)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-20T12:19:23.838Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-27T03:00:59.807Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: SampleDB_Adesh.users index: email_1 dup key: { email: "barbade@gamil.com" } 
+      url - /api/v1/users 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-05-27T03:10:13.923Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 11000
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (D:\projectt\fundo-notes\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (D:\projectt\fundo-notes\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (D:\projectt\fundo-notes\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (D:\projectt\fundo-notes\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (D:\projectt\fundo-notes\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:326:13)
+    at D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-27T03:10:13.937Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: SampleDB_Adesh.users index: email_1 dup key: { email: "barbade@gamil.com" } 
+      url - /api/v1/users 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-05-27T03:12:03.492Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 11000
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (D:\projectt\fundo-notes\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (D:\projectt\fundo-notes\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (D:\projectt\fundo-notes\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (D:\projectt\fundo-notes\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (D:\projectt\fundo-notes\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:326:13)
+    at D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-27T03:12:03.503Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: SampleDB_Adesh.users index: email_1 dup key: { email: "barbade@gamil.com" } 
+      url - /api/v1/users 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-05-27T03:12:59.060Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 11000
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (D:\projectt\fundo-notes\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (D:\projectt\fundo-notes\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (D:\projectt\fundo-notes\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (D:\projectt\fundo-notes\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (D:\projectt\fundo-notes\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:326:13)
+    at D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-27T03:12:59.067Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: SampleDB_Adesh.users index: email_1 dup key: { email: "barbade@gamil.com" } 
+      url - /api/v1/users 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-05-27T03:13:30.908Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 11000
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (D:\projectt\fundo-notes\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (D:\projectt\fundo-notes\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (D:\projectt\fundo-notes\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (D:\projectt\fundo-notes\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (D:\projectt\fundo-notes\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:326:13)
+    at D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-27T03:13:30.914Z"}
+error: 
+    status - 500 
+    message - ValidationError: "password" is required 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-27T07:19:48.222Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at parse (D:\projectt\fundo-notes\node_modules\body-parser\lib\types\json.js:89:19)
+    at D:\projectt\fundo-notes\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:201:9)
+    at invokeCallback (D:\projectt\fundo-notes\node_modules\raw-body\index.js:231:16)
+    at done (D:\projectt\fundo-notes\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (D:\projectt\fundo-notes\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:538:35)
+    at IncomingMessage.emit (node:domain:475:12)
+    at endReadableNT (node:internal/streams/readable:1345:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/users 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-27T07:53:07.022Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at parse (D:\projectt\fundo-notes\node_modules\body-parser\lib\types\json.js:89:19)
+    at D:\projectt\fundo-notes\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:201:9)
+    at invokeCallback (D:\projectt\fundo-notes\node_modules\raw-body\index.js:231:16)
+    at done (D:\projectt\fundo-notes\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (D:\projectt\fundo-notes\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:538:35)
+    at IncomingMessage.emit (node:domain:475:12)
+    at endReadableNT (node:internal/streams/readable:1345:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-27T07:53:17.652Z"}
+error: 
+    status - 500 
+    message - ValidationError: "password" is required 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-27T07:53:33.604Z"}
+error: 
+    status - 500 
+    message - ValidationError: "password" is required 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-28T00:56:05.456Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is not allowed 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-28T00:56:51.591Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is not allowed 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-28T00:57:55.240Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" is not allowed 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-28T00:58:15.626Z"}
+error: 
+    status - 500 
+    message - ValidationError: "password" is required 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-28T00:59:00.093Z"}
+error: 
+    status - 500 
+    message - ValidationError: "password" is required 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-28T01:03:28.985Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is not allowed 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-28T01:04:47.900Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: SampleDB_Adesh.users index: email_1 dup key: { email: "barbadeadesh@gmail.com" } 
+      url - /api/v1/users 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-05-28T03:18:30.942Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 11000
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (D:\projectt\fundo-notes\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (D:\projectt\fundo-notes\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (D:\projectt\fundo-notes\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (D:\projectt\fundo-notes\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (D:\projectt\fundo-notes\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:326:13)
+    at D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-28T03:18:30.974Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is not allowed 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-28T03:20:10.765Z"}
+error: 
+    status - 500 
+    message - ValidationError: "password" is required 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-28T03:22:58.947Z"}
+error: 
+    status - 500 
+    message - TypeError: _user.default.findone is not a function
+    at _callee3$ (D:\projectt\fundo-notes\src\services\/user.service.js:24:27)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.userLogin (D:\projectt\fundo-notes\src\services\/user.service.js:23:23)
+    at _callee3$ (D:\projectt\fundo-notes\src\controllers\/user.controller.js:49:36)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-28T03:34:30.403Z"}
+error: 
+    status - 500 
+    message - ReferenceError: error is not defined
+    at _callee3$ (D:\projectt\fundo-notes\src\services\/user.service.js:23:26)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-30T10:31:56.472Z"}
+error: 
+    status - 500 
+    message - ReferenceError: error is not defined
+    at _callee3$ (D:\projectt\fundo-notes\src\services\/user.service.js:23:26)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-30T10:32:47.471Z"}
+error: 
+    status - 500 
+    message - ReferenceError: error is not defined
+    at _callee3$ (D:\projectt\fundo-notes\src\services\/user.service.js:23:26)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-30T10:33:16.638Z"}
+error: 
+    status - 500 
+    message - Error: user Exist
+    at _callee3$ (D:\projectt\fundo-notes\src\services\/user.service.js:26:11)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-30T10:44:25.384Z"}
+error: 
+    status - 500 
+    message - Error: user Exist
+    at _callee3$ (D:\projectt\fundo-notes\src\services\/user.service.js:26:11)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-30T10:44:47.212Z"}
+error: 
+    status - 500 
+    message - Error: user Exist
+    at _callee3$ (D:\projectt\fundo-notes\src\services\/user.service.js:26:11)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-30T10:44:48.805Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'email')
+    at _callee3$ (D:\projectt\fundo-notes\src\services\/user.service.js:24:49)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.userLogin (D:\projectt\fundo-notes\src\services\/user.service.js:23:23)
+    at _callee3$ (D:\projectt\fundo-notes\src\controllers\/user.controller.js:49:36)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-30T11:18:27.453Z"}
+error: 
+    status - 500 
+    message - ReferenceError: error is not defined
+    at _callee3$ (D:\projectt\fundo-notes\src\services\/user.service.js:23:26)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-30T11:19:30.220Z"}
+error: 
+    status - 500 
+    message - ReferenceError: error is not defined
+    at _callee3$ (D:\projectt\fundo-notes\src\services\/user.service.js:23:26)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-30T11:26:07.552Z"}
+error: 
+    status - 500 
+    message - ReferenceError: error is not defined
+    at _callee3$ (D:\projectt\fundo-notes\src\services\/user.service.js:23:26)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-30T11:26:14.179Z"}
+error: 
+    status - 500 
+    message - ReferenceError: error is not defined
+    at _callee3$ (D:\projectt\fundo-notes\src\services\/user.service.js:23:26)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-30T11:43:52.981Z"}
