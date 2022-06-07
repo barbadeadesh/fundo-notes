@@ -1,0 +1,315 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T08:36:28.815Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T08:36:28.848Z"}
+error: 
+    status - 500 
+    message - ValidationError: "Title" length must be at least 3 characters long 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-02T08:38:21.166Z"}
+error: 
+    status - 500 
+    message - ValidationError: "Description" length must be at least 5 characters long 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-02T08:38:29.729Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-02T08:38:35.859Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T08:40:18.467Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T08:40:18.502Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T08:40:26.620Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T08:40:26.647Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T08:40:33.062Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T08:40:33.090Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T08:40:43.313Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T08:40:43.343Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-02T08:50:58.284Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2022-06-02T11:32:52.103Z"}
+error: 
+    status - 500 
+    message - Error: user does not exist
+    at _callee3$ (D:\projectt\fundo-notes\src\services\/user.service.js:30:11)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-06-02T11:37:27.482Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T11:40:13.906Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T11:40:13.943Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T11:40:20.176Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T11:40:20.208Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T11:40:27.256Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T11:40:27.293Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T11:40:34.667Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T11:40:34.700Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T11:40:41.526Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T11:40:41.557Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T11:41:01.529Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T11:41:01.560Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T11:41:50.465Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T11:41:50.493Z"}
+error: 
+    status - 500 
+    message - Error: user does not exist
+    at _callee3$ (D:\projectt\fundo-notes\src\services\/user.service.js:30:11)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-06-02T11:41:53.081Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-02T11:42:13.721Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T11:56:14.080Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T11:56:14.106Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T11:56:29.939Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T11:56:29.974Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T11:56:36.044Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T11:56:36.076Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T11:56:45.194Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T11:56:45.227Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T11:56:50.334Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T11:56:50.362Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T11:56:53.752Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T11:56:53.783Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T11:56:59.981Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T11:57:00.010Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T11:57:03.254Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T11:57:03.292Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T11:57:08.456Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T11:57:08.485Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T11:57:16.611Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T11:57:16.652Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T11:57:44.435Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T11:57:44.462Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T11:57:48.410Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T11:57:48.449Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T11:57:54.179Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T11:57:54.216Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T11:58:00.624Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T11:58:00.656Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T11:58:07.176Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T11:58:07.206Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T11:58:17.153Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T11:58:17.185Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T11:58:24.727Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T11:58:24.759Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T11:58:27.696Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T11:58:27.725Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:00:17.150Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:00:17.178Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:00:20.560Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:00:20.586Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:00:34.048Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:00:34.080Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:00:50.062Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:00:50.112Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:00:54.107Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:00:54.142Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:01:09.932Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:01:09.961Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:01:15.621Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:01:15.656Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:01:23.866Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:01:23.896Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:01:27.350Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:01:27.378Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:01:36.095Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:01:36.122Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:01:57.014Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:01:57.043Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:02:14.287Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:02:14.322Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:02:19.388Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:02:19.433Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:02:23.998Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:02:24.027Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:06:58.745Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:06:58.774Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:08:04.902Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:08:04.930Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:08:20.859Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:08:20.888Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:08:29.751Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:08:29.774Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:09:08.183Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:09:08.207Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:09:12.335Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:09:12.369Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:09:51.603Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:09:51.631Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:10:01.425Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:10:01.459Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:10:28.401Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:10:39.001Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:10:39.032Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:10:41.973Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:10:42.011Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:10:54.534Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:10:54.562Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:10:57.616Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:10:57.644Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:11:12.891Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:11:12.935Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:11:15.950Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:11:15.977Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:11:28.182Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:11:28.212Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:11:34.669Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:11:34.699Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:11:41.429Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:11:41.477Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:12:13.215Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:12:13.244Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:12:15.823Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:12:15.853Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:12:19.715Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:12:19.757Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:17:09.096Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:17:09.139Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:17:12.835Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:17:12.862Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:17:21.390Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:17:21.419Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:17:34.506Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:17:34.541Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:17:42.656Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:17:42.683Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:18:00.389Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:18:00.420Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:19:05.989Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:19:06.020Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:19:46.422Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:19:46.452Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:19:53.218Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:19:53.246Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:21:07.157Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:21:07.186Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:21:38.584Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:21:38.609Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:21:51.219Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:21:51.251Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:22:02.004Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:22:02.045Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:22:07.736Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:22:07.769Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:22:35.446Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:22:35.475Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:22:56.984Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:22:57.020Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:23:16.542Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:23:16.569Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:23:23.766Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:23:23.796Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:23:46.548Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:23:46.581Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:23:50.136Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:23:50.165Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:23:55.834Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:23:55.862Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:24:20.326Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:24:20.373Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:24:24.382Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:24:24.422Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:24:28.831Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:24:28.865Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:24:32.392Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:24:32.424Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:25:02.113Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:25:02.146Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'IsArchived' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (D:\projectt\fundo-notes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\projectt\fundo-notes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/notes/IsArchived 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-06-02T12:25:20.586Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:26:13.957Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:26:13.992Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:29:03.502Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:29:03.542Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:29:09.504Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:29:09.533Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:29:15.009Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:29:15.036Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:29:23.836Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:29:23.862Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'isArchived' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (D:\projectt\fundo-notes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\projectt\fundo-notes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/notes/isArchived 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-06-02T12:30:13.429Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:34:34.590Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:34:34.619Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T12:35:17.645Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T12:35:17.677Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T13:49:02.577Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T13:49:02.602Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T13:49:30.586Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T13:49:30.612Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T16:11:05.821Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T16:11:05.844Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T16:14:11.934Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T16:14:11.962Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T16:14:31.101Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T16:14:31.127Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T16:14:35.371Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T16:14:35.400Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T16:14:39.330Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T16:14:39.356Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T16:15:39.474Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T16:15:39.501Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T16:18:13.869Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T16:18:13.896Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T16:18:39.629Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T16:18:39.652Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T16:22:47.141Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T16:22:47.168Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T16:22:55.501Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T16:22:55.527Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T16:22:58.139Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T16:22:58.165Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T16:23:15.612Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T16:23:15.644Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-02T16:23:31.168Z"}
+info: Connected to the database. {"timestamp":"2022-06-02T16:23:31.191Z"}

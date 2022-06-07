@@ -1,0 +1,144 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-04T10:40:35.343Z"}
+info: Connected to the database. {"timestamp":"2022-06-04T10:40:35.367Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-04T10:40:44.439Z"}
+info: Connected to the database. {"timestamp":"2022-06-04T10:40:44.463Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-04T10:40:54.794Z"}
+info: Connected to the database. {"timestamp":"2022-06-04T10:40:54.814Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-04T10:43:24.845Z"}
+info: Connected to the database. {"timestamp":"2022-06-04T10:43:24.872Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-04T10:43:27.754Z"}
+info: Connected to the database. {"timestamp":"2022-06-04T10:43:27.784Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-04T10:43:31.521Z"}
+info: Connected to the database. {"timestamp":"2022-06-04T10:43:31.550Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-04T10:43:34.881Z"}
+info: Connected to the database. {"timestamp":"2022-06-04T10:43:34.911Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-04T10:43:42.410Z"}
+info: Connected to the database. {"timestamp":"2022-06-04T10:43:42.438Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-04T10:43:46.518Z"}
+info: Connected to the database. {"timestamp":"2022-06-04T10:43:46.559Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-04T10:43:51.207Z"}
+info: Connected to the database. {"timestamp":"2022-06-04T10:43:51.233Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-04T10:44:19.257Z"}
+info: Connected to the database. {"timestamp":"2022-06-04T10:44:19.282Z"}
+error: 
+    status - 500 
+    message - TypeError: _note.default.findOnedAndUpdate is not a function
+    at _callee6$ (D:\projectt\fundo-notes\src\services\/note.service.js:43:31)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/notes/isArchived/6296290ecdcfe3097c955dca 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-06-04T10:46:24.010Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-04T10:46:54.465Z"}
+info: Connected to the database. {"timestamp":"2022-06-04T10:46:54.497Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-04T10:47:00.528Z"}
+info: Connected to the database. {"timestamp":"2022-06-04T10:47:00.554Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-04T10:47:44.947Z"}
+info: Connected to the database. {"timestamp":"2022-06-04T10:47:44.973Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-04T10:48:15.358Z"}
+info: Connected to the database. {"timestamp":"2022-06-04T10:48:15.386Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-04T10:48:18.629Z"}
+info: Connected to the database. {"timestamp":"2022-06-04T10:48:18.662Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-04T10:48:21.438Z"}
+info: Connected to the database. {"timestamp":"2022-06-04T10:48:21.459Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-04T10:50:24.237Z"}
+info: Connected to the database. {"timestamp":"2022-06-04T10:50:24.262Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-04T10:50:28.328Z"}
+info: Connected to the database. {"timestamp":"2022-06-04T10:50:28.352Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-04T10:50:31.540Z"}
+info: Connected to the database. {"timestamp":"2022-06-04T10:50:31.564Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-04T10:50:36.578Z"}
+info: Connected to the database. {"timestamp":"2022-06-04T10:50:36.601Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of null (reading 'isdeleted')
+    at _callee7$ (D:\projectt\fundo-notes\src\services\/note.service.js:50:34)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/notes/isDeleted/6296290ecdcfe3097c955dca 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-06-04T10:50:40.754Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-04T10:51:00.750Z"}
+info: Connected to the database. {"timestamp":"2022-06-04T10:51:00.774Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of null (reading 'isdeleted')
+    at _callee7$ (D:\projectt\fundo-notes\src\services\/note.service.js:50:34)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/notes/isDeleted/6296290ecdcfe3097c955dca 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-06-04T10:51:07.122Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-04T10:51:16.998Z"}
+info: Connected to the database. {"timestamp":"2022-06-04T10:51:17.021Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of null (reading 'isdeleted')
+    at _callee7$ (D:\projectt\fundo-notes\src\services\/note.service.js:50:34)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/notes/isDeleted/6296290ecdcfe3097c955dca 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-06-04T10:51:44.540Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-04T10:52:18.071Z"}
+info: Connected to the database. {"timestamp":"2022-06-04T10:52:18.094Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-04T10:52:37.799Z"}
+info: Connected to the database. {"timestamp":"2022-06-04T10:52:37.821Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-04T10:52:42.151Z"}
+info: Connected to the database. {"timestamp":"2022-06-04T10:52:42.177Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-04T10:52:52.085Z"}
+info: Connected to the database. {"timestamp":"2022-06-04T10:52:52.116Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-04T10:52:58.702Z"}
+info: Connected to the database. {"timestamp":"2022-06-04T10:52:58.727Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-04T10:53:11.363Z"}
+info: Connected to the database. {"timestamp":"2022-06-04T10:53:11.385Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-04T10:53:17.008Z"}
+info: Connected to the database. {"timestamp":"2022-06-04T10:53:17.033Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-04T10:54:11.902Z"}
+info: Connected to the database. {"timestamp":"2022-06-04T10:54:11.930Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-04T10:54:14.659Z"}
+info: Connected to the database. {"timestamp":"2022-06-04T10:54:14.685Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-04T10:54:19.630Z"}
+info: Connected to the database. {"timestamp":"2022-06-04T10:54:19.653Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-04T10:54:24.258Z"}
+info: Connected to the database. {"timestamp":"2022-06-04T10:54:24.286Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-04T10:54:28.261Z"}
+info: Connected to the database. {"timestamp":"2022-06-04T10:54:28.289Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-04T10:54:31.357Z"}
+info: Connected to the database. {"timestamp":"2022-06-04T10:54:31.385Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-04T10:54:36.284Z"}
+info: Connected to the database. {"timestamp":"2022-06-04T10:54:36.315Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-04T10:54:39.637Z"}
+info: Connected to the database. {"timestamp":"2022-06-04T10:54:39.665Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-04T10:54:44.894Z"}
+info: Connected to the database. {"timestamp":"2022-06-04T10:54:44.912Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-04T10:55:18.752Z"}
+info: Connected to the database. {"timestamp":"2022-06-04T10:55:18.783Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-04T10:56:02.615Z"}
+info: Connected to the database. {"timestamp":"2022-06-04T10:56:02.639Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-04T10:56:09.154Z"}
+info: Connected to the database. {"timestamp":"2022-06-04T10:56:09.208Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-04T10:56:50.723Z"}
+info: Connected to the database. {"timestamp":"2022-06-04T10:56:50.745Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-04T10:57:27.887Z"}
+info: Connected to the database. {"timestamp":"2022-06-04T10:57:27.908Z"}

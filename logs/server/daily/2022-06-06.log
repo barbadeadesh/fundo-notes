@@ -1,0 +1,374 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T01:10:37.043Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T01:10:37.072Z"}
+error: 
+      status - 66
+      message - Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id' 
+      url - /api/v1/notes/isArchived/629d54754fc30c2148304d2b 
+      method - PUT 
+      IP - ::1
+     {"timestamp":"2022-06-06T02:15:39.092Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 66
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (D:\projectt\fundo-notes\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (D:\projectt\fundo-notes\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (D:\projectt\fundo-notes\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (D:\projectt\fundo-notes\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (D:\projectt\fundo-notes\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:326:13)
+    at D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/notes/isArchived/629d54754fc30c2148304d2b 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-06-06T02:15:39.124Z"}
+error: 
+      status - 66
+      message - Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id' 
+      url - /api/v1/notes/isArchived/629b3b01a36bbe420ca3fb3e 
+      method - PUT 
+      IP - ::1
+     {"timestamp":"2022-06-06T02:16:32.891Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 66
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (D:\projectt\fundo-notes\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (D:\projectt\fundo-notes\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (D:\projectt\fundo-notes\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (D:\projectt\fundo-notes\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (D:\projectt\fundo-notes\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:326:13)
+    at D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/notes/isArchived/629b3b01a36bbe420ca3fb3e 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-06-06T02:16:32.897Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T02:17:25.391Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T02:17:25.421Z"}
+error: 
+      status - 66
+      message - Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id' 
+      url - /api/v1/notes/isArchived/629b3b01a36bbe420ca3fb3e 
+      method - PUT 
+      IP - ::1
+     {"timestamp":"2022-06-06T02:17:30.116Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 66
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (D:\projectt\fundo-notes\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (D:\projectt\fundo-notes\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (D:\projectt\fundo-notes\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (D:\projectt\fundo-notes\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (D:\projectt\fundo-notes\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:326:13)
+    at D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/notes/isArchived/629b3b01a36bbe420ca3fb3e 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-06-06T02:17:30.127Z"}
+error: 
+      status - 66
+      message - Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id' 
+      url - /api/v1/notes/isArchived/629b3b01a36bbe420ca3fb3e 
+      method - PUT 
+      IP - ::1
+     {"timestamp":"2022-06-06T02:18:33.488Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 66
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (D:\projectt\fundo-notes\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (D:\projectt\fundo-notes\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (D:\projectt\fundo-notes\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (D:\projectt\fundo-notes\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (D:\projectt\fundo-notes\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:326:13)
+    at D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/notes/isArchived/629b3b01a36bbe420ca3fb3e 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-06-06T02:18:33.491Z"}
+error: 
+      status - 66
+      message - Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id' 
+      url - /api/v1/notes/isArchived/629b3b01a36bbe420ca3fb3e 
+      method - PUT 
+      IP - ::1
+     {"timestamp":"2022-06-06T02:20:07.794Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 66
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (D:\projectt\fundo-notes\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (D:\projectt\fundo-notes\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (D:\projectt\fundo-notes\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (D:\projectt\fundo-notes\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (D:\projectt\fundo-notes\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:326:13)
+    at D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/notes/isArchived/629b3b01a36bbe420ca3fb3e 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-06-06T02:20:07.802Z"}
+error: 
+      status - 66
+      message - Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id' 
+      url - /api/v1/notes/isArchived/629b3b01a36bbe420ca3fb3e 
+      method - PUT 
+      IP - ::1
+     {"timestamp":"2022-06-06T02:26:32.504Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 66
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (D:\projectt\fundo-notes\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (D:\projectt\fundo-notes\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (D:\projectt\fundo-notes\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (D:\projectt\fundo-notes\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (D:\projectt\fundo-notes\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:326:13)
+    at D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/notes/isArchived/629b3b01a36bbe420ca3fb3e 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-06-06T02:26:32.510Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T02:27:44.996Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T02:27:45.023Z"}
+error: 
+      status - 66
+      message - Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id' 
+      url - /api/v1//notes/isArchived/629b3b01a36bbe420ca3fb3e 
+      method - PUT 
+      IP - ::1
+     {"timestamp":"2022-06-06T02:28:04.589Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 66
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (D:\projectt\fundo-notes\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (D:\projectt\fundo-notes\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (D:\projectt\fundo-notes\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (D:\projectt\fundo-notes\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (D:\projectt\fundo-notes\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:326:13)
+    at D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1//notes/isArchived/629b3b01a36bbe420ca3fb3e 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-06-06T02:28:04.617Z"}
+error: 
+      status - 66
+      message - Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id' 
+      url - /api/v1/notes/isArchived/629b3b01a36bbe420ca3fb3e 
+      method - PUT 
+      IP - ::1
+     {"timestamp":"2022-06-06T02:29:20.638Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 66
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (D:\projectt\fundo-notes\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (D:\projectt\fundo-notes\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (D:\projectt\fundo-notes\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (D:\projectt\fundo-notes\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (D:\projectt\fundo-notes\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:326:13)
+    at D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/notes/isArchived/629b3b01a36bbe420ca3fb3e 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-06-06T02:29:20.642Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T02:29:37.108Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T02:29:37.139Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T02:33:00.482Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T02:33:00.511Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T02:58:41.608Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T02:58:41.642Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T02:59:17.291Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T02:59:17.315Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T02:59:21.697Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T02:59:21.724Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T02:59:24.392Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T02:59:24.415Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T02:59:51.054Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T02:59:51.078Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T02:59:53.602Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T02:59:53.623Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T03:01:33.203Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T03:01:33.223Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T03:01:47.726Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T03:01:47.747Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:18:50.404Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:18:50.430Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:19:00.046Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:19:00.071Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:19:05.778Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:19:05.803Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:19:16.212Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:19:16.237Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:19:20.388Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:19:20.428Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:19:29.772Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:19:29.805Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:19:41.624Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:19:41.675Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:23:39.625Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:23:39.656Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:23:47.897Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:23:47.922Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:24:07.056Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:24:07.083Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:24:09.751Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:24:09.777Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:24:24.586Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:24:24.609Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:24:31.743Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:24:31.765Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:24:34.593Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:24:34.618Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:24:42.938Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:24:42.963Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:24:52.846Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:24:52.881Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:24:55.866Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:24:55.893Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:25:01.562Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:25:01.590Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:25:07.819Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:25:07.892Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:25:17.170Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:25:17.199Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:25:21.486Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:25:21.507Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:25:30.934Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:25:30.969Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:25:39.302Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:25:39.337Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:25:48.182Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:25:48.208Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:25:56.067Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:25:56.091Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:26:02.674Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:26:02.702Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:26:08.270Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:26:08.293Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:26:26.571Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:26:26.593Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:26:33.387Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:26:33.409Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:26:39.650Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:26:39.690Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:26:47.638Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:26:47.662Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:26:50.331Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:26:50.370Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:26:58.043Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:26:58.063Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:30:52.077Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:30:52.109Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:31:21.454Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:31:21.474Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:31:24.398Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:31:24.421Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:31:29.682Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:31:29.719Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:31:36.786Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:31:36.813Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:31:45.585Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:31:45.611Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:31:50.871Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:31:50.892Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:31:58.295Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:31:58.329Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:32:02.204Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:32:02.231Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:32:04.857Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:32:04.887Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:32:14.154Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:32:14.181Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:32:17.285Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:32:17.305Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:32:31.871Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:32:31.895Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:32:49.512Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:32:49.538Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:32:52.789Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:32:52.825Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:32:55.656Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:32:55.681Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:35:33.280Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:35:33.300Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T04:35:39.682Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T04:35:39.706Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T15:27:48.384Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T15:27:48.416Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T15:28:01.938Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T15:28:01.963Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T15:28:14.883Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T15:28:14.906Z"}

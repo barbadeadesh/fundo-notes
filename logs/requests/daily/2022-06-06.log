@@ -1,0 +1,26 @@
+info: ::1 - - [06/Jun/2022:01:11:08 +0000] "PUT /api/v1/notes/isArchived/629b3ad7a36bbe420ca3fb3a HTTP/1.1" 200 300 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [06/Jun/2022:01:12:21 +0000] "POST /api/v1/notes HTTP/1.1" 200 276 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [06/Jun/2022:02:15:28 +0000] "POST /api/v1/notes/isArchived/629d54754fc30c2148304d2b HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [06/Jun/2022:02:15:39 +0000] "PUT /api/v1/notes/isArchived/629d54754fc30c2148304d2b HTTP/1.1" 500 58 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [06/Jun/2022:02:16:32 +0000] "PUT /api/v1/notes/isArchived/629b3b01a36bbe420ca3fb3e HTTP/1.1" 500 58 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [06/Jun/2022:02:17:30 +0000] "PUT /api/v1/notes/isArchived/629b3b01a36bbe420ca3fb3e HTTP/1.1" 500 58 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [06/Jun/2022:02:18:33 +0000] "PUT /api/v1/notes/isArchived/629b3b01a36bbe420ca3fb3e HTTP/1.1" 500 58 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [06/Jun/2022:02:20:07 +0000] "PUT /api/v1/notes/isArchived/629b3b01a36bbe420ca3fb3e HTTP/1.1" 500 58 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [06/Jun/2022:02:26:32 +0000] "PUT /api/v1/notes/isArchived/629b3b01a36bbe420ca3fb3e HTTP/1.1" 500 58 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [06/Jun/2022:02:28:04 +0000] "PUT /api/v1//notes/isArchived/629b3b01a36bbe420ca3fb3e HTTP/1.1" 500 58 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [06/Jun/2022:02:29:20 +0000] "PUT /api/v1/notes/isArchived/629b3b01a36bbe420ca3fb3e HTTP/1.1" 500 58 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [06/Jun/2022:03:00:09 +0000] "PUT /api/v1/notes/isArchived/629b3b01a36bbe420ca3fb3e HTTP/1.1" 200 306 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [06/Jun/2022:03:00:52 +0000] "PUT /api/v1/notes/isArchived/629b3b01a36bbe420ca3fb3e HTTP/1.1" 200 306 "-" "PostmanRuntime/7.29.0"
+

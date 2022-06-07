@@ -1,6 +1,9 @@
 import dotenv from 'dotenv';
 dotenv.config();
 
+const swaggerui = require (`swagger-ui-express`)
+import swaggerDocument from '../src/swagger/swagger.json'
+
 import express from 'express';
 import cors from 'cors';
 import helmet from 'helmet';
@@ -26,6 +29,8 @@ app.use(helmet());
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(morgan('combined', { stream: logStream }));
+
+app.use("/api-docs",swaggerui.serve,swaggerui.setup(swaggerDocument))
 
 database();
 

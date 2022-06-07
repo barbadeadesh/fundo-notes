@@ -1,5 +1,6 @@
 import User from '../models/user.model';
 import bcrypt from "bcrypt";
+import jwt from "jsonwebtoken"
 
 
 //get all users
@@ -30,8 +31,10 @@ export const userLogin = async (body) => {
   }
   else {
     if ( await bcrypt.compare(body.password, data.password)) {
+
+      let token = jwt.sign({ _id: data._id, email: data.email }, process.env.SECRET_KEY);
       
-      return data;
+      return token;
     }
     else {
       throw new Error("password does not match")

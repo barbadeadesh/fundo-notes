@@ -6,16 +6,6 @@
     "auditLog": "logs\\requests\\daily\\.66602cdde70fd43456e51d0c9addc83824638c4d-audit.json",
     "files": [
         {
-            "date": 1652945121471,
-            "name": "logs\\requests\\daily\\2022-05-19.log",
-            "hash": "5de388e6b62c54a2c2922b15e5192de1"
-        },
-        {
-            "date": 1653011342180,
-            "name": "logs\\requests\\daily\\2022-05-20.log",
-            "hash": "86d2ab1fd2da4069132e1c0bcc5a6202"
-        },
-        {
             "date": 1653620367833,
             "name": "logs\\requests\\daily\\2022-05-27.log",
             "hash": "67aa4d7c1c82924ab72f82bcb45baa3d"
@@ -29,6 +19,41 @@
             "date": 1653906204081,
             "name": "logs\\requests\\daily\\2022-05-30.log",
             "hash": "eb779646f4d7007792634ac656122015"
+        },
+        {
+            "date": 1653967774274,
+            "name": "logs\\requests\\daily\\2022-05-31.log",
+            "hash": "6620b0361d06b776b3500d0b4fd61eda"
+        },
+        {
+            "date": 1654051284651,
+            "name": "logs\\requests\\daily\\2022-06-01.log",
+            "hash": "8f0f43eca7b23c9b561ee8aed7241a51"
+        },
+        {
+            "date": 1654158988761,
+            "name": "logs\\requests\\daily\\2022-06-02.log",
+            "hash": "aac4622721166260d3b0d19bbe221e55"
+        },
+        {
+            "date": 1654223353540,
+            "name": "logs\\requests\\daily\\2022-06-03.log",
+            "hash": "a9e964af95a5f586f7cf5647495f78a1"
+        },
+        {
+            "date": 1654339235299,
+            "name": "logs\\requests\\daily\\2022-06-04.log",
+            "hash": "c34649f6381a2aeb49e3f100e49ce7bc"
+        },
+        {
+            "date": 1654477836998,
+            "name": "logs\\requests\\daily\\2022-06-06.log",
+            "hash": "11dfc0cf99561ffeddbd7f5338de031c"
+        },
+        {
+            "date": 1654563003578,
+            "name": "logs\\requests\\daily\\2022-06-07.log",
+            "hash": "bd2ecac0e0dddf67e2420dda3a43f610"
         }
     ],
     "hashType": "md5"

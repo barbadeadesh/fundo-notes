@@ -1,0 +1,685 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T03:29:34.335Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T03:29:34.369Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T03:32:13.909Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T03:32:13.935Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T03:32:19.480Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T03:32:19.523Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T03:33:06.867Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T03:33:06.897Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T03:33:59.600Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T03:33:59.626Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T03:34:18.287Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T03:34:18.319Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T03:34:23.848Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T03:34:23.873Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T05:29:11.420Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T05:29:11.442Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T05:29:23.859Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T05:29:23.893Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T05:29:36.872Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T05:29:36.898Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T05:29:45.127Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T05:29:45.152Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T05:29:48.784Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T05:29:48.810Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T05:29:54.972Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T05:29:55.003Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T05:30:04.602Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T05:30:04.625Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T05:31:07.758Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T05:31:07.793Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T05:31:10.885Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T05:31:10.922Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T05:31:16.762Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T05:31:19.946Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T05:31:22.872Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T05:31:25.916Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T05:31:31.368Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T05:31:42.660Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T05:31:46.900Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T05:32:07.228Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T05:34:02.675Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T05:34:10.521Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T05:34:15.221Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T05:34:24.801Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T05:34:29.424Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T05:34:34.731Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T05:34:37.608Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T05:34:40.594Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T05:34:51.951Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T05:34:56.922Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T05:35:14.611Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T05:35:26.532Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T05:35:32.698Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T05:35:38.152Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T05:35:42.233Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T05:35:52.352Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T05:35:57.565Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T05:36:05.578Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T05:36:11.293Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T05:36:18.040Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T05:36:28.686Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T06:14:55.045Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T06:16:18.412Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T06:18:04.923Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T06:19:32.209Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T06:20:05.874Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T06:20:10.256Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T06:20:40.025Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T06:21:10.687Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T06:21:28.837Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T06:21:31.424Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T06:21:37.365Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T06:21:45.603Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T06:22:04.915Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T06:22:21.355Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T06:22:27.401Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T06:22:44.138Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T06:26:37.679Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T06:27:02.900Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T06:27:07.008Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T06:27:17.084Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T06:27:20.935Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T06:27:26.847Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T06:27:36.960Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T06:27:36.987Z"}
+error: 
+    status - 500 
+    message - TypeError: UserService.CreateNote is not a function
+    at _callee2$ (D:\projectt\fundo-notes\src\controllers\/note.controller.js:20:36)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at createNote (D:\projectt\fundo-notes\src\controllers\/note.controller.js:18:24)
+    at Layer.handle [as handle_request] (D:\projectt\fundo-notes\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\projectt\fundo-notes\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\projectt\fundo-notes\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\projectt\fundo-notes\node_modules\express\lib\router\layer.js:95:5)
+    at D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\projectt\fundo-notes\node_modules\express\lib\router\index.js:346:12) 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-31T06:30:52.370Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T06:31:56.220Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T06:31:56.244Z"}
+error: 
+    status - 500 
+    message - ReferenceError: Note is not defined
+    at _callee2$ (D:\projectt\fundo-notes\src\services\/note.service.js:10:27)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.createNote (D:\projectt\fundo-notes\src\services\/note.service.js:10:24)
+    at _callee2$ (D:\projectt\fundo-notes\src\controllers\/note.controller.js:20:36)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-31T06:32:00.354Z"}
+error: 
+    status - 500 
+    message - ReferenceError: Note is not defined
+    at _callee2$ (D:\projectt\fundo-notes\src\services\/note.service.js:10:27)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.createNote (D:\projectt\fundo-notes\src\services\/note.service.js:10:24)
+    at _callee2$ (D:\projectt\fundo-notes\src\controllers\/note.controller.js:20:36)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-31T06:32:17.315Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T06:37:01.966Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T06:37:01.989Z"}
+error: 
+    status - 500 
+    message - ReferenceError: Note is not defined
+    at _callee2$ (D:\projectt\fundo-notes\src\services\/note.service.js:10:27)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.createNote (D:\projectt\fundo-notes\src\services\/note.service.js:10:24)
+    at _callee2$ (D:\projectt\fundo-notes\src\controllers\/note.controller.js:20:36)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-31T06:37:13.627Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T06:39:08.238Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T06:39:08.262Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T06:39:35.892Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T06:39:35.928Z"}
+error: 
+    status - 500 
+    message - ReferenceError: Note is not defined
+    at _callee2$ (D:\projectt\fundo-notes\src\services\/note.service.js:10:27)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.createNote (D:\projectt\fundo-notes\src\services\/note.service.js:10:24)
+    at _callee2$ (D:\projectt\fundo-notes\src\controllers\/note.controller.js:20:36)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-31T06:40:28.547Z"}
+error: 
+    status - 500 
+    message - ReferenceError: Note is not defined
+    at _callee2$ (D:\projectt\fundo-notes\src\services\/note.service.js:10:27)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.createNote (D:\projectt\fundo-notes\src\services\/note.service.js:10:24)
+    at _callee2$ (D:\projectt\fundo-notes\src\controllers\/note.controller.js:20:36)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-31T07:04:33.343Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T07:06:09.289Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T07:06:09.311Z"}
+error: 
+    status - 500 
+    message - ReferenceError: Note is not defined
+    at _callee2$ (D:\projectt\fundo-notes\src\services\/note.service.js:10:27)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.createNote (D:\projectt\fundo-notes\src\services\/note.service.js:10:24)
+    at _callee2$ (D:\projectt\fundo-notes\src\controllers\/note.controller.js:20:36)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-31T07:06:53.447Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T07:09:10.281Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T07:09:10.308Z"}
+error: 
+    status - 500 
+    message - ReferenceError: Note is not defined
+    at _callee2$ (D:\projectt\fundo-notes\src\services\/note.service.js:10:27)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.createNote (D:\projectt\fundo-notes\src\services\/note.service.js:10:24)
+    at _callee2$ (D:\projectt\fundo-notes\src\controllers\/note.controller.js:20:36)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-31T07:09:15.800Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T07:10:00.269Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T07:10:00.290Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T07:10:26.032Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T07:10:26.063Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T07:10:30.489Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T07:10:30.522Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T07:10:50.261Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T07:10:50.304Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T07:11:06.128Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T07:11:06.155Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T07:12:51.582Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T07:12:51.618Z"}
+error: 
+    status - 500 
+    message - ReferenceError: Note is not defined
+    at _callee2$ (D:\projectt\fundo-notes\src\services\/note.service.js:10:27)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.createNote (D:\projectt\fundo-notes\src\services\/note.service.js:10:24)
+    at _callee2$ (D:\projectt\fundo-notes\src\controllers\/note.controller.js:20:36)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/notes/create 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-31T07:13:05.504Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T07:13:18.406Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T07:13:18.440Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T07:24:03.805Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T07:24:03.831Z"}
+error: 
+    status - 500 
+    message - ReferenceError: Note is not defined
+    at _callee2$ (D:\projectt\fundo-notes\src\services\/note.service.js:10:27)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.createNote (D:\projectt\fundo-notes\src\services\/note.service.js:10:24)
+    at _callee2$ (D:\projectt\fundo-notes\src\controllers\/note.controller.js:20:36)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-31T07:24:09.689Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T07:24:19.069Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T07:24:19.090Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T07:25:14.798Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T07:25:14.825Z"}
+error: 
+    status - 500 
+    message - ReferenceError: Note is not defined
+    at _callee2$ (D:\projectt\fundo-notes\src\services\/note.service.js:10:27)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.createNote (D:\projectt\fundo-notes\src\services\/note.service.js:10:24)
+    at _callee2$ (D:\projectt\fundo-notes\src\controllers\/note.controller.js:20:36)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-31T07:25:21.573Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T07:27:47.995Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T07:27:48.023Z"}
+error: 
+    status - 500 
+    message - ReferenceError: Note is not defined
+    at _callee2$ (D:\projectt\fundo-notes\src\services\/note.service.js:10:27)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.createNote (D:\projectt\fundo-notes\src\services\/note.service.js:10:24)
+    at _callee2$ (D:\projectt\fundo-notes\src\controllers\/note.controller.js:20:36)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-31T07:27:52.343Z"}
+error: 
+    status - 500 
+    message - ReferenceError: Note is not defined
+    at _callee2$ (D:\projectt\fundo-notes\src\services\/note.service.js:10:27)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.createNote (D:\projectt\fundo-notes\src\services\/note.service.js:10:24)
+    at _callee2$ (D:\projectt\fundo-notes\src\controllers\/note.controller.js:20:36)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-31T07:28:02.494Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T07:28:27.192Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T07:28:27.220Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T07:29:21.592Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T07:29:21.620Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T07:29:33.218Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T07:29:33.260Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T07:29:39.633Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T07:29:39.658Z"}
+error: 
+    status - 500 
+    message - ReferenceError: body is not defined
+    at _callee2$ (D:\projectt\fundo-notes\src\services\/note.service.js:12:34)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.createNote (D:\projectt\fundo-notes\src\services\/note.service.js:11:24)
+    at _callee2$ (D:\projectt\fundo-notes\src\controllers\/note.controller.js:20:36)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-31T07:29:42.610Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T07:33:38.320Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T07:33:38.351Z"}
+error: 
+    status - 500 
+    message - ReferenceError: req is not defined
+    at _callee2$ (D:\projectt\fundo-notes\src\services\/note.service.js:12:34)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.createNote (D:\projectt\fundo-notes\src\services\/note.service.js:11:24)
+    at _callee2$ (D:\projectt\fundo-notes\src\controllers\/note.controller.js:20:36)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-31T07:33:42.581Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T07:34:25.503Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T07:34:25.531Z"}
+error: 
+    status - 500 
+    message - ReferenceError: body is not defined
+    at _callee2$ (D:\projectt\fundo-notes\src\services\/note.service.js:12:34)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.createNote (D:\projectt\fundo-notes\src\services\/note.service.js:11:24)
+    at _callee2$ (D:\projectt\fundo-notes\src\controllers\/note.controller.js:20:36)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-31T07:34:34.035Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T07:38:17.801Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T07:38:17.830Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T07:38:34.429Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T07:38:34.454Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T07:55:55.517Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T07:55:55.544Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T07:56:57.437Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T07:56:57.464Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T07:57:55.239Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T07:57:55.265Z"}
+error: 
+    status - 500 
+    message - ReferenceError: body is not defined
+    at _callee2$ (D:\projectt\fundo-notes\src\services\/note.service.js:12:34)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.createNote (D:\projectt\fundo-notes\src\services\/note.service.js:11:24)
+    at _callee2$ (D:\projectt\fundo-notes\src\controllers\/note.controller.js:20:36)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-31T07:57:59.800Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T07:58:24.841Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T07:58:24.865Z"}
+error: 
+    status - 500 
+    message - ReferenceError: body is not defined
+    at _callee2$ (D:\projectt\fundo-notes\src\services\/note.service.js:12:34)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.createNote (D:\projectt\fundo-notes\src\services\/note.service.js:11:24)
+    at _callee2$ (D:\projectt\fundo-notes\src\controllers\/note.controller.js:20:36)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-31T07:58:40.042Z"}
+error: 
+    status - 500 
+    message - ReferenceError: body is not defined
+    at _callee2$ (D:\projectt\fundo-notes\src\services\/note.service.js:12:34)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.createNote (D:\projectt\fundo-notes\src\services\/note.service.js:11:24)
+    at _callee2$ (D:\projectt\fundo-notes\src\controllers\/note.controller.js:20:36)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-31T08:02:43.790Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T14:35:58.669Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T14:35:58.698Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T14:36:10.419Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T14:36:10.447Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T14:36:15.207Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T14:36:15.243Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T14:36:25.819Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T14:36:25.850Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T14:36:35.091Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T14:36:35.116Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T14:36:41.271Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T14:36:41.303Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T14:36:55.917Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T14:36:55.947Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T14:38:29.485Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T14:38:29.509Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T14:38:35.698Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T14:38:35.731Z"}
+error: 
+    status - 500 
+    message - ReferenceError: _id is not defined
+    at _callee4$ (D:\projectt\fundo-notes\src\services\/note.service.js:24:7)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.updateNote (D:\projectt\fundo-notes\src\services\/note.service.js:21:24)
+    at _callee4$ (D:\projectt\fundo-notes\src\controllers\/note.controller.js:46:36)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/notes/629628e1cdcfe3097c955dc8 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-05-31T14:46:04.541Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T14:46:53.575Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T14:46:53.607Z"}
+error: 
+    status - 500 
+    message - ReferenceError: body is not defined
+    at _callee4$ (D:\projectt\fundo-notes\src\services\/note.service.js:26:5)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.updateNote (D:\projectt\fundo-notes\src\services\/note.service.js:21:24)
+    at _callee4$ (D:\projectt\fundo-notes\src\controllers\/note.controller.js:46:36)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/notes/629628e1cdcfe3097c955dc8 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-05-31T14:46:56.088Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T14:48:04.366Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T14:48:04.405Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ id: '629628e1cdcfe3097c955dc8' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (D:\projectt\fundo-notes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\projectt\fundo-notes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/notes/629628e1cdcfe3097c955dc8 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-05-31T14:48:07.957Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T14:48:40.795Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T14:48:40.820Z"}
+error: 
+    status - 500 
+    message - ReferenceError: id is not defined
+    at _callee4$ (D:\projectt\fundo-notes\src\services\/note.service.js:24:7)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.updateNote (D:\projectt\fundo-notes\src\services\/note.service.js:21:24)
+    at _callee4$ (D:\projectt\fundo-notes\src\controllers\/note.controller.js:46:36)
+    at tryCatch (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (D:\projectt\fundo-notes\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\projectt\fundo-notes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/notes/629628e1cdcfe3097c955dc8 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-05-31T14:49:02.339Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T14:49:18.171Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T14:49:18.206Z"}

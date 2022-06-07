@@ -1,0 +1,20 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-03T02:29:13.581Z"}
+info: Connected to the database. {"timestamp":"2022-06-03T02:29:13.602Z"}
+error: 
+    status - 500 
+    message - ValidationError: "Title" is required 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-03T03:31:27.913Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: '2998097a821b02788f9a1d3' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (D:\projectt\fundo-notes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\projectt\fundo-notes\node_modules\mongoose\lib\query.js:4592:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/notes/2998097a821b02788f9a1d3 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-06-03T03:32:15.389Z"}
